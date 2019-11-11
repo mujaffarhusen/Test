@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 gafgkasgkfmbc
 gafhasf
 hhakfjk
+=======
+789f9w7faf4a4f
+asf
+asf56s
+a
+>>>>>>> my_branch
